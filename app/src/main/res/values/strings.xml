@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Shared List</string>
 
-    <string name="parse_app_id">5f78f87d1fbd1e8b26c8151aabc1b5c0614a40c0</string>
+    <string name="parse_app_id">XXXXXXXXXXX</string>
     <string name="parse_client_key"></string>
     <string name="parse_server">http://ec2-13-58-15-91.us-east-2.compute.amazonaws.com:80/parse</string>
 
